@@ -1,0 +1,40 @@
+body {
+    
+    margin: o;
+    background: url("../практика/img/фон.jpg");
+
+    
+}
+
+.card {
+    width: 400px; 
+    margin: 0 auto;
+    box-shadow: 0 5px 10px;
+    
+    color: rgb(202, 20, 20);
+    border-radius: 10px;
+}
+
+.card-title{
+
+
+
+
+    font-size: 20px;
+    text-align: center;
+    color: brown;
+}
+
+.card-subtitle{
+    font-size: 18px;
+    color: red;
+}
+
+.merch{
+    display: inline;
+}
+.box1{
+display: inline-block;
+height: 150px;
+width: 150px;
+}
